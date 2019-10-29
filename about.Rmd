@@ -1,0 +1,17 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+### About this site
+
+This site was made using RStudio Version 1.2.1335. R package versions used are ... It is hosted on github.com, and the website address is: mayasaritaspaur.github.io  
+
+Source code can be found in the repository titled  mayasaritaspaur.github.io at https://github.com/mayaspaur 
+
+
+My name is Maya Spaur. 
